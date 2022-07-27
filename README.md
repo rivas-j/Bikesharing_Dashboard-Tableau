@@ -1,11 +1,4 @@
-# Citi Bike Sharing Challenge
-
-
-You must use the five visualizations that you created in Deliverable 2.
-You must use at least two visualizations that you created in this module.
-In your README markdown file, include the following:
-## Overview of the analysis: Explain the purpose of this analysis.
-The purpose of this analysis is to study Citi Bike Usage data in New York with the goal of implementing a pilot bike sharing program in Des Moines, Iowa. Our goal is to build a sales deck for prospective investors using the power of tableau visualizations, with the help of Pandas to process the raw data.
+# Citi Bike Sharing Visualization
 
 Please see our Tableau Dashboard in the link below:
 
