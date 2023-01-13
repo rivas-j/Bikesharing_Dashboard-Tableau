@@ -1,7 +1,7 @@
 # Bikesharing Dashboard with Tableau
 
 <div align="center">
-    <img src=Images/citibike.webp>
+    <img src=image/citibike.webp>
 </div>
 
 ## <div align="center">Utilize Tableau to Visualize Citibike Ridership Trends</div>
@@ -44,43 +44,43 @@ I retrieved monthly ridership data from [Citibikenyc](https://www.citibikenyc.co
 ### Checkout Times for Users
 
 According to the below line graph, the vast majority of bike rides tend to last around 5 minutes:
-![Checkout Times for Users](images/1_Checkout_Times_for_Users.png)
+![Checkout Times for Users](image/1_Checkout_Times_for_Users.png)
 
 ### Gender Breakdown
 
 The below pie chart indicates that males are the major target demographic:
 
-![Gender Breakdown](images/2_Gender_Breakdown.png)
+![Gender Breakdown](image/2_Gender_Breakdown.png)
 
 ### Checkout Times by Gender
 
 Adding the gender layer on top of the trip duration data, we see that mostly males are using the citi bikes for short 5 minute rides:
-![Checkout Times by Gender](images/3_Checkout_Times_by_Gender.png)
+![Checkout Times by Gender](image/3_Checkout_Times_by_Gender.png)
 
 ### Weekday Trips Per Hour
 
 The below chart outlines peak ridership by weekday and hour. 8-9 AM and 5-7 PM tend to be peak ridership times on weekdays. Off peak times during the week tend to happen from 10 AM - 5 PM; however during the weekend we're seeing increased ridership during these same hours.
 
-![Weekday Trips Per Hour](images/4_Weekday_Trips_Per_Hour.png)
+![Weekday Trips Per Hour](image/4_Weekday_Trips_Per_Hour.png)
 
 ### Trips by Gender (Per Weekday Per Hour)
 
 Adding the gender layer to Weekday Trips per Hour, we see that males account for the majority of ridership during peak hours.
 
-![Trips by Gender (Per Weekday Per Hour)](images/5_Trips_by_Gender_Weekday_per_HR.png)
+![Trips by Gender (Per Weekday Per Hour)](image/5_Trips_by_Gender_Weekday_per_HR.png)
 
 ### User Trips by Gender by Weekday
 
 The below chart indicates that the bulk of ridership tend to be subscribers:
 
-![User Trips by Gender by Weekday](images/6_User_Trips_By_Gender_by_Weekday.png)
+![User Trips by Gender by Weekday](image/6_User_Trips_By_Gender_by_Weekday.png)
 
 
 ### Bike Repairs
 
 Given the major potential costs associated with mechanical breakdowns, we've introduced this visual that tracks the bike IDs and how many repairs they've had:
 
-![Bike Repairs](images/7_Bike_Repairs.png)
+![Bike Repairs](image/7_Bike_Repairs.png)
 
 # <div align="center">Summary</div>
 
