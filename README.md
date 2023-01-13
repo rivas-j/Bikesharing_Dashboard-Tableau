@@ -1,7 +1,7 @@
 # Bikesharing Dashboard with Tableau
 
 <div align="center">
-    <img src=images/citibike.webp>
+    <img src=Images/citibike.webp>
 </div>
 
 ## <div align="center">Utilize Tableau to Visualize Citibike Ridership Trends</div>
@@ -32,7 +32,7 @@ Please see our Tableau Dashboard in the link below:
 
 I retrieved monthly ridership data from [Citibikenyc](https://www.citibikenyc.com/system-data) in CSV format, which will be my Tableau data source
 
-- [Citi Bike Monthly Rider Data - August 2019:](data/201908-citibike-tripdata_new.7z) CSV file containing 2,344,223 rows of rider data
+- **Citi Bike Monthly Rider Data - August 2019:** CSV file containing 2,344,223 rows of rider data
 
 # <div align="center">Tools Used</div>
 - **Tableau Desktop:** Powerful and robust data visualization software
